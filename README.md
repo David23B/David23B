@@ -13,7 +13,7 @@ I'm Jason Lai! I'm a student in Xiamen University, looking to solve **real-world
 <!-- Working GIF -->
 <img align= "right" width= "500" alt="Jason's github stats" src="https://github-readme-stats.vercel.app/api?username=David23B&show_icons=true&theme=algolia&count_private=true"/>
 
-### Things that I'm currently working on <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">: 
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Things that I'm currently working on: 
 * Learning AI
 * Looking forward to take a Flutter course in future.
 * 🔜
